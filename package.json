@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/samrapow/social-network-db-fun/issues"
   },
-  "homepage": "https://github.com/samrapow/social-network-db-fun#readme"
+  "homepage": "https://github.com/samrapow/social-network-db-fun#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.5"
+  }
 }
